@@ -1,5 +1,7 @@
 # kien_truc_may_tinh
 
+# 👉🏽[Sử dụng](https://ktmt.qrgiamgia.com/)
+
 ## Project setup
 ```
 npm install
